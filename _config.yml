@@ -13,11 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Python Science
+title: Методичка по Python
 email: ""#shmirko.konstantin@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Использование Python в научных приложениях как адекватную и бесплатную альтернативу
-  MATLAB. 
+  Методичка по Python. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  kshmirko
