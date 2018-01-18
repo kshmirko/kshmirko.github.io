@@ -8,7 +8,9 @@
             {% if forloop.first %}
                 <li class="nav-header">{{ label }}</li>
             {% endif %}
+            {% if page.publish %}
             <li data-order="{{ page.order }}"><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
+            {% endif %}
         {% endfor %}
     {% endfor %}
 <!-- List additional links. It is recommended to add a divider

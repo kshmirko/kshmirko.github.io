@@ -53,3 +53,12 @@ redcarpet:
         'tables',
         'hardwrap'
     ]
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "page"
+      publish: "True"
+      
