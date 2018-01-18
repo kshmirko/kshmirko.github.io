@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title:  "Python и с чем его едят!"
 date:   2018-01-09 09:11:00 +1000
 categories: python

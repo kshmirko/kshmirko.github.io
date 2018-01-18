@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title:  "Структуры данных в Python"
 date:   2018-01-11 07:02:00 +1000
 categories: python

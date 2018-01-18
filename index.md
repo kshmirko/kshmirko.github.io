@@ -1,16 +1,13 @@
 ---
-### You don't need to edit this file, it's empty on purpose.
-### Edit theme's home layout instead if you wanna make some changes
-### See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-###
 layout: default
+title: ""
 ---
 
-<div id="home">
-  <h1>Blog Posts</h1>
-  <ul class="posts">
-    {% for post in site.posts reversed %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
-</div>
+
+### Что это такое
+
+Блог об использовании python в качестве альтернативы MATLAB-у. Изначально
+разрабатывался как некая методичка для студентов МГУ им. адм. Г.И. Невельского.
+
+Содержит, на мой взгляд, основные сведения для того, что бы выстро вникнуть в
+суть Python и окончательно перейти на бесплатное ПО.

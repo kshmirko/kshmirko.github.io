@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title:  "Процедуры и функции"
 date:   2018-01-12 10:32:00 +1000
 categories: python

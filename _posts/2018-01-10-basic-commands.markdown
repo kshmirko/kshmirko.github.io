@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title:  "Основные функции и операторы Python"
 date:   2018-01-10 09:36:00 +1000
 categories: python

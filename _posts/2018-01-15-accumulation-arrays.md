@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title:  "Накопление массивов"
 date:   2018-01-15 10:08:00 +1000
 categories: python
