@@ -58,7 +58,13 @@ defaults:
   -
     scope:
       path: ""
+      
     values:
-      layout: "page"
-      publish: "True"
+      layout: "page"  # разметка у всех <<page>>
+      publish: "True" # по умолчанию показываем все посты
+      
+  - scope:
+      path: "img"
+    values:
+      image: true
       
