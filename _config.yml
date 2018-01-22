@@ -21,6 +21,7 @@ codeurl: 'https://github.com/kshmirko/kshmirko.github.io/'
 sections: [
     ['python', 'Документация по Python'],
     ['datawarehouse', 'Хранилища данных'],
+    ['sqlalchemy', 'ORM SQLAlchemy'],
     ['post', 'Заметки']
 ]
 
