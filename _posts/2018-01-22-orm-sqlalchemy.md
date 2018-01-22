@@ -1,8 +1,9 @@
 ---
 layout: page
 title: "ORM SQLAlchemy"
-category: sqlalchemy
+category: orm
 date: 2018-01-22 11:11:57
+publish: False
 ---
 
 Что такое ORM? ORM дословно Object Relational Mapping - объектно-реляционное связывание - комплекс программ, позволяющих работать с базами данных, как если бы они были объектами языка программирования, в данном случае Python.
