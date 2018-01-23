@@ -40,7 +40,15 @@ date: 2018-01-19 08:54:06
 
 Теперь Вы понимаете, почему курс сложный.
 
+**Литература по курсу:**
 
+[Книга по SQL](/static/Alan_Beaulieu-Learning_SQL-EN.pdf)
+
+[Еще один учебник по SQL](/static/Structured Query Language.pdf)
+
+[SQLite tutorial](/static/sqlite_tutorial.pdf)
+
+[The Definitive Guide To SQLite](/static/The_Definitive_Guide_to_SQLite_2nd_edition.pdf)
 
 
 
